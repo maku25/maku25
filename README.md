@@ -1,6 +1,6 @@
 ## 👨‍💻 Développeur full stack orienté data et IA
 ## 🚀 Projets Actuels
-- 🌐 Refonte du site web.
+- 🌐 Refonte site web.
 - 🤖 Développement d'un chatbot intelligent.
 
 ## 🛠️ Technologies & Outils
