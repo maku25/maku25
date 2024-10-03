@@ -12,7 +12,6 @@
 ## 🛠️ Technologies & Outils
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 Mes Statistiques GitHub
 ![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=maku25&show_icons=true&theme=radical&count_private=true)
