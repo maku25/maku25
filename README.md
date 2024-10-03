@@ -1,7 +1,7 @@
-## 👨‍💻 Développeur full stack orienté data et IA @Inoweo
+## 👨‍💻 Développeur full stack orienté data et IA
 ## 🚀 Projets Actuels
-- 🌐 Refonte du site web d'Inoweo www.inoweo.fr.
-- 🤖 Développement d'un chatbot intelligent 'InowAI'.
+- 🌐 Refonte du site web.
+- 🤖 Développement d'un chatbot intelligent.
 
 ## 🛠️ Technologies & Outils
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
