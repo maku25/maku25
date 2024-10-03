@@ -6,8 +6,8 @@
 - 🌱 J’apprends actuellement **React** et l'**IA appliquée au web**.
 
 ## 🚀 Projets Actuels
-- 🔭 Je travaille actuellement sur la refonte du site web d'Inoweo //www.inoweo.fr/.
-- 🌐 https://www.inoweo.fr/
+- 🌐 Refonte du site web d'Inoweo www.inoweo.fr.
+- 🤖 Développemen d'un chatbot intelligent 'InowAI'.
 
 ## 🛠️ Technologies & Outils
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
