@@ -6,7 +6,7 @@
 - 🌱 J’apprends actuellement **React** et l'**IA appliquée au web**.
 
 ## 🚀 Projets Actuels
-- 🔭 Je travaille actuellement sur la refonte du site web d'Inoweo.
+- 🔭 Je travaille actuellement sur la refonte du site web d'Inoweo //www.inoweo.fr/.
 - 🌐 https://www.inoweo.fr/
 
 ## 🛠️ Technologies & Outils
